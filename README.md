@@ -1,4 +1,4 @@
-![](https://i0.wp.com/themes.svn.wordpress.org/freesia-business/1.0.3/screenshot.jpg?w=1142&strip=all)
+![](http://i.imgur.com/wYi2CkD.png)
 
 
 # Overview
